@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/All my Apps/Android apps/project's/project's/Where is the pizza/Whereisthepizza/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16666666666666666" />
+        <entry key="..\:/All my Apps/Android apps/project's/project's/Where is the pizza/Whereisthepizza/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16666666666666666" />
+        <entry key="..\:/All my Apps/Android apps/project's/project's/Where is the pizza/Whereisthepizza/app/src/main/res/layout/activity_main.xml" value="0.22628570811991808" />
+        <entry key="..\:/All my Apps/Android apps/project's/project's/Where is the pizza/Whereisthepizza/app/src/main/res/layout/fragment_second.xml" value="0.1539855072463768" />
+        <entry key="..\:/All my Apps/Android apps/project's/project's/Where is the pizza/Whereisthepizza/app/src/main/res/layout/loser.xml" value="0.22628570811991808" />
+        <entry key="..\:/All my Apps/Android apps/project's/project's/Where is the pizza/Whereisthepizza/app/src/main/res/layout/open.xml" value="0.22628570811991808" />
+        <entry key="..\:/All my Apps/Android apps/project's/project's/Where is the pizza/Whereisthepizza/app/src/main/res/layout/winning.xml" value="0.22628570811991808" />
+        <entry key="..\:/Users/kfar-/Desktop/My_project's/Android_Apps/Game_Where_is_Pizza/app/src/main/res/layout/winning.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
