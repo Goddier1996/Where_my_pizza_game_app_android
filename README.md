@@ -1,6 +1,9 @@
 # Where my pizza game app - android(java)
 in this game you need to serach pizza.
 
+video project :
+
+https://user-images.githubusercontent.com/59862302/179349488-c3546519-6fb0-4ac8-a9c1-39eaab7238f6.mp4
 
 home page :
                                                   
